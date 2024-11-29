@@ -21,5 +21,8 @@ app.use("/quizzes", quizRouter);
 // app.listen(PORT, () => {
 //   console.log(`Server is running on port ${PORT}`);
 // });
+app.get("/", (req, res) => {
+  res.send("Welcome to the Quiz App API");
+});
 
 module.exports = app;
