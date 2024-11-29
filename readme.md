@@ -8,6 +8,10 @@ The application provides secure user authentication and role-based access contro
 
 ---
 
+## Vercel Deployment Url
+
+https://quiz-app-lovat-one-11.vercel.app/
+
 ## Features
 
 ### User Features:
